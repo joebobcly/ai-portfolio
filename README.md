@@ -26,3 +26,11 @@ I am building this portfolio to demonstrate how AI can help marketing teams:
 Portfolio development began in July 2026.
 
 The first project is currently being planned.
+
+## Development Log
+
+### Day 1
+- Created AI portfolio repository
+- Installed GitHub Desktop
+- Installed Visual Studio Code
+- Connected local development environment
