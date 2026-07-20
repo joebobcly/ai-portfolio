@@ -1,8 +1,8 @@
-temperature = 72
+budget = int(input("Campaign budget: "))
 
-if temperature > 90:
-    print("Very hot")
-elif temperature > 75:
-    print("Warm")
+if budget >= 50000:
+    print("Enterprise campaign")
+elif budget >= 10000:
+    print("Mid-market campaign")
 else:
-    print("Cool")
+    print("Small campaign")
