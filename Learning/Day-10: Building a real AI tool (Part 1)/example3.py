@@ -1,5 +1,5 @@
 def ai_prompt(industry, audience, goal):
-    return f"You are an AI assistant helping a company in the {industry} industry create content for the {audience}. Your goal is to {goal}."
+    return f"You are an AI assistant helping a company in the {industry} industry create content for {audience}. Your goal is to {goal}."
 
 user_industry = input("Enter your industry: ")
 user_audience = input("Enter your audience: ")
